@@ -1,2 +1,2 @@
 # gemini_test
-Testing gemini api
+only Testing gemini api
